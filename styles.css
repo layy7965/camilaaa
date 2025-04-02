@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/JCCHM7J5RFDLFIVMEEK7PXFPU4.avif');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -96,13 +96,10 @@ h2 {
 
 }
 
-.fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
-}
+
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5e1d2071d31d42443244f5f0/1609374572025-21G38FNXL6GTO1L8EAK0/Hinata-01.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
